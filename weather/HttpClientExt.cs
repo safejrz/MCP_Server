@@ -1,6 +1,5 @@
 ﻿using System.Text.Json;
 
-//namespace weather;
 
 internal static class HttpClientExt
 {
